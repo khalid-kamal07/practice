@@ -1,0 +1,13 @@
+.para{
+    font-weight: bold;
+  
+}
+h2{text-align: center;
+
+    text-transform: capitalize;
+}
+h3{text-decoration: unset;}
+a{
+    background-color: aquamarine;
+   text-align: left;
+}
